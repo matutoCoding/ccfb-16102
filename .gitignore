@@ -8,3 +8,7 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# CDP 验证截图产物
+scripts/shots/
+dist/
